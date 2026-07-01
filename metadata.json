@@ -1,0 +1,6 @@
+{
+  "name": "AI 毒舌記帳 App",
+  "description": "Gen Z 反人性財務干預與微型變現引擎 - 結合 AI 毒舌吐槽與隨機盲盒抽獎的行為干預記帳 App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
